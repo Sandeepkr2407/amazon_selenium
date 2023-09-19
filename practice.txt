@@ -1,0 +1,7 @@
+For Creating new data base go to SQL Shell(psql)
+
+1.for showing all database --- \l
+2.for creating database ----- create database database                  
+    name(sql_practice)
+3. for connecting database ----- \c database name (sql_practice)
+
